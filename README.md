@@ -21,9 +21,5 @@
 - **Database**: SQLite 
 - **APIs**: Google Maps API, SMS Gateway
 
-## 📄 License
-
-This project is for academic purposes. Contact the contributors for usage permissions.
-
 
 
