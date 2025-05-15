@@ -21,18 +21,6 @@
 - **Database**: SQLite 
 - **APIs**: Google Maps API, SMS Gateway
 
-## 📊 Results
-- Real-time emergency alert functionality.
-- Offline-capable location tracking and contact management.
-- Responsive user interface tested through various real-life safety scenarios.
-
-## 🚧 Limitations & Future Work
-
-- **Voice Recognition for SOS**: Planned for future using TensorFlow Lite.
-- **Hybrid Communication Protocols**: Researching Bluetooth mesh and satellite messaging.
-- **Multilingual Support** and improved background noise handling for voice commands.
-- **Custom Trigger Phrases**: For more flexible emergency activation.
-
 ## 📄 License
 
 This project is for academic purposes. Contact the contributors for usage permissions.
